@@ -1,52 +1,73 @@
-<div align="left">
+<h1 align="center">Xin chào, mình là YOUR_NAME 👋</h1>
 
-  <!-- Header & Thông tin cơ bản -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
-    <b>MEGAPLASTOR</b>
-  </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Luôn+học+hỏi+điều+mới" alt="Typing SVG" />
+</p>
 
-  <p>
-    <i>Full-Stack & Web Developer | Exploring new technologies</i>
-  </p>
-
-  <!-- GitHub Metrics Card (Đúng chuẩn style như hình bạn gửi) -->
-  <p align="center">
-    <img src="https://metrics.lecoq.io/MEGAPLASTOR?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used%2C%20recently-used&languages.indepth=false&languages.analysis.args=&languages.details=bytes-size%2C%20percentage&languages.launch=false&config.timezone=Asia%2FHo_Chi_Minh&config.theme=dark" alt="MEGAPLASTOR's GitHub Metrics" width="100%" />
-  </p>
-
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <!-- Deployment & Tools -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 🚀 Về mình
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MEGAPLASTOR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="165em" src="https://streak-stats.demolab.com?user=MEGAPLASTOR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔭 Hiện đang làm: *Tên dự án bạn đang làm*
+- 🌱 Đang học: *Công nghệ / kỹ năng đang học*
+- 💬 Hỏi mình về: *JavaScript, Java, Python, ...*
+- 📫 Liên hệ: your.email@example.com
+- ⚡ Sở thích: *game, thiết kế, viết code linh tinh...*
+
+---
+
+### 🛠️ Ngôn ngữ & Công cụ
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,php,git,github,vscode,figma" alt="skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+</p>
+
+---
+
+### 📌 Dự án nổi bật
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/REPO_1">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/REPO_2">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Kết nối với mình
+
+<p align="center">
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">⭐ Nếu thấy hữu ích, đừng quên để lại 1 star nhé!</p>
