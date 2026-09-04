@@ -344,7 +344,7 @@
   <section class="hero">
     <div>
       <h1>Đinh Tấn Đạt</h1>
-      <p class="role">Sinh viên &amp; lập trình viên tại Cần Thơ — xây dựng những công cụ nhỏ, gọn, và <strong>dùng được thật</strong>. Đang làm việc chủ yếu với JavaScript, Java và Python.</p>
+      <p class="role">Lập trình viên tại Cần Thơ với <strong>4 năm kinh nghiệm</strong> — xây dựng những công cụ nhỏ, gọn, và <strong>dùng được thật</strong>. Làm việc chủ yếu với JavaScript, Java và Python.</p>
       <div class="hero-actions">
         <a class="btn primary" href="mailto:dtdata24042@cusc.ctu.edu.vn">Gửi email</a>
         <a class="btn ghost" href="https://github.com/MEGAPLASTOR" target="_blank" rel="noopener">GitHub ↗</a>
@@ -367,15 +367,15 @@
     </div>
     <div class="about-grid">
       <div>
-        <p>Mình là Đạt, hiện đang học tại Trường Công nghệ Thông tin &amp; Truyền thông, Đại học Cần Thơ. Mình thích viết code gọn gàng, thử nghiệm API, và thỉnh thoảng làm vài dự án nhỏ chỉ vì tò mò nó hoạt động thế nào.</p>
+        <p>Mình là Đạt, lập trình viên với 4 năm kinh nghiệm, hiện sống và làm việc tại Cần Thơ. Mình thích viết code gọn gàng, thử nghiệm API, và thỉnh thoảng làm vài dự án nhỏ chỉ vì tò mò nó hoạt động thế nào.</p>
         <p>Ngoài giờ code, mình làm nội dung trên YouTube và hay lảng vảng trên Discord nhiều hơn là mạng xã hội khác.</p>
       </div>
       <div class="facts">
         <div><span>Vị trí</span><span>Cần Thơ, Việt Nam</span></div>
-        <div><span>Trường</span><span>ĐH Cần Thơ (CUSC)</span></div>
+        <div><span>Kinh nghiệm</span><span>4 năm</span></div>
         <div><span>Bắt đầu code</span><span>2021</span></div>
         <div><span>Ngôn ngữ chính</span><span>JavaScript, Java</span></div>
-        <div><span>Trạng thái</span><span>Đang học &amp; xây dự án</span></div>
+        <div><span>Trạng thái</span><span>Đang làm việc &amp; nhận dự án</span></div>
       </div>
     </div>
   </section>
@@ -462,7 +462,7 @@
 <script>
   const lines = [
     { p: '$ whoami', d: 0 },
-    { o: 'dinh_tan_dat — student, developer', d: 0 },
+    { o: 'dinh_tan_dat — developer, 4y exp', d: 0 },
     { p: '$ cat focus.txt', d: 0 },
     { a: 'building small, useful things.', d: 0 },
     { p: '$ status --current', d: 0 },
