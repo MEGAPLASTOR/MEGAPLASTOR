@@ -1,8 +1,6 @@
 <h1 align="center">Xin chào, mình là Đinh Tấn Đạt 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Luôn+học+hỏi+điều+mới" alt="Typing SVG" />
-</p>
+<p align="center">Full-Stack Developer · Open Source Enthusiast · Luôn học hỏi điều mới</p>
 
 <p align="center">
   <a href="https://github.com/MEGAPLASTOR">
@@ -41,16 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MEGAPLASTOR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGAPLASTOR&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEGAPLASTOR&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGAPLASTOR&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 </p>
 
 ---
